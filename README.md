@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nidhi
+- 👋 Hi, I’m Sri Nidhi
 - 👀 I’m interested in Python and web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on real time projects to improve my skills
